@@ -2,7 +2,7 @@
 I am born and raised in Brunei Darussalam, then further studied in Malaysia for IT. 👾
 
 <h2>Technical Skills</h2>
-<li><b>Programming languages:</b> c++, python</li>
+<li><b>Programming languages:</b> c, c++, python, c#</li>
 <li><b>Web development:</b> php, html, css</li>
 <li><b>Web development framework/library:</b> tailwindcss, laravel, bootstrap5</li>
 
