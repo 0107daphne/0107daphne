@@ -1,5 +1,6 @@
 <h2>Introduction</h2>
-I am born and raised in Brunei Darussalam, then further studied in Malaysia for IT. 👾
+<p>I am born and raised in Brunei Darussalam, then further studied in Malaysia for IT. 👾</p>
+<p>I enjoy web development, mainly front end. Currently enjoying self-learning Unity and C# for a research project.</p>
 
 <h2>Technical Skills</h2>
 <li><b>Programming languages:</b> c, c++, python, c#</li>
