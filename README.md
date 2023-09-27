@@ -15,7 +15,7 @@ I am born and raised in Brunei Darussalam, then further studied in Malaysia for 
 
 <hr>
 <p>📲How to reach me: </p>
-<p>Connect with me on Linkedin, link in the bio! 😃</p>
+<p>Connect with me on Linkedin: <a href="[in/daphne-goh0107](https://www.linkedin.com/in/daphne-goh0107/)">in/daphne-goh0107</a>😃</p>
 
 <!--
 **0107daphne/0107daphne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
