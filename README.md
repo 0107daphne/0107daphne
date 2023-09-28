@@ -12,8 +12,7 @@
 <li>🌱 I’m currently learning Unity and C#</li>
 
 <h2>Portfolio</h2>
-<li>https://sites.google.com/view/
-daphnelgoh</li>
+<li>https://sites.google.com/view/daphnelgoh</li>
 <li>🧱🚧<i> Under construction </i>🏗🧱</li>
 
 <hr>
