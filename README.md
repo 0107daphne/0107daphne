@@ -12,7 +12,9 @@
 <li>🌱 I’m currently learning Unity and C#</li>
 
 <h2>Portfolio</h2>
-🧱🚧<i> Under construction </i>🏗🧱
+<li>https://sites.google.com/view/
+daphnelgoh</li>
+<li>🧱🚧<i> Under construction </i>🏗🧱</li>
 
 <hr>
 <p>📲How to reach me: </p>
