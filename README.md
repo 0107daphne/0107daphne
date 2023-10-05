@@ -4,7 +4,7 @@
 <p>UMSKAL Alumni :3</p>
 
 <h2>Technical Skills</h2>
-<li><b>Programming languages:</b> c, c++, python, c#</li>
+<li><b>Programming languages:</b> c, c++, python, c#, sql</li>
 <li><b>Web development:</b> php, html, css</li>
 <li><b>Web development framework/library:</b> tailwindcss, laravel, bootstrap5</li>
 
